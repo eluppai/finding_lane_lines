@@ -80,3 +80,10 @@ I don't think this is a good idea if the curves get aggressive. I encountered so
 
 Rather than use a hard-limit of 480, we may want to use distance to conclude if the point is on the left or right. Every point is compared to all points on the left and right lane. 
 If the lowest distance is to points on the left lane, the point is on the left lane. Else it is on the right lane.
+
+### 4. Acknowledgements
+I found the discussions on the forums very handy. Very many of my class mates had similar questions and answers in those forums helped me understand the material better. They also provided pointers on where I am going wrong and how I could be fixing it.
+
+I also used http://nullege.com/codes/search/matplotlib.pyplot.imsave to save images
+
+I used https://justgagan.wordpress.com/2010/09/22/python-create-path-or-directories-if-not-exist/ to create directories and save images and videos when they did not exist.
